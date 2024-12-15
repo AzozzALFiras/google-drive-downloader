@@ -29,11 +29,11 @@ To use the `GoogleDriveService` class in your project, follow these steps:
 
 ### 1. Install the Package via Composer
 
-You can install the package `azozzalfiras/3z-gDriverDownload` using Composer. Run the following command in your project directory:
+You can install the package `azozzalfiras/google-drive` using Composer. Run the following command in your project directory:
 
 ```bash
 
-composer require azozzalfiras/google-drive-service:^1.0
+composer require azozzalfiras/google-drive:^1.0
 
 ```
 
