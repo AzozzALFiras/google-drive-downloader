@@ -1,0 +1,18 @@
+{
+    "name": "azozzalfiras/google-drive",
+    "description": "A service for handling Google Drive file downloads",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Azozzalfiras\\GoogleDrive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azozz ALFiras"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
