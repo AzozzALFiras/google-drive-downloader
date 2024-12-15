@@ -2,7 +2,7 @@
     "name": "azozzalfiras/google-drive",
     "description": "A service for handling Google Drive file downloads",
     "type": "library",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Azozzalfiras\\GoogleDrive\\": "src/"
@@ -13,8 +13,5 @@
             "name": "Azozz ALFiras"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-        "php": ">=5.3.0"
-    }
+    "minimum-stability": "stable"
 }
